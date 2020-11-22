@@ -11,7 +11,7 @@ class LoginController extends BaseController
 {
     public function authenticate(Request $request)
     {
-        $user = User::where('email', $request->get('email'))->where('password', md5($request->get('password')))->first();
+        $user = User::where('email', $request->get('email'))->where('password', $request->get('password'))->first();
         if (!empty($user)) {
             Auth::login($user);
         }
