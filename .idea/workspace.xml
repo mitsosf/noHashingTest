@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f16e26-c690-4859-978d-339f90349216" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/Actions/Fortify/CreateNewUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Actions/Fortify/CreateNewUser.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/dashboard.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606034582116</updated>
       <workItem from="1606034583151" duration="699000" />
-      <workItem from="1606035305522" duration="1890000" />
+      <workItem from="1606035305522" duration="3799000" />
     </task>
     <servers />
   </component>
@@ -173,10 +174,11 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="907" y="380" width="1015" height="772" key="find.popup" timestamp="1606035588656">
-      <screen x="72" y="27" width="2286" height="1261" />
+    <state x="981" y="423" width="1105" height="866" key="find.popup" timestamp="1606059987760">
+      <screen x="72" y="27" width="2488" height="1413" />
     </state>
     <state x="907" y="380" width="1015" height="772" key="find.popup/72.27.2286.1261@72.27.2286.1261" timestamp="1606035588656" />
+    <state x="981" y="423" width="1105" height="866" key="find.popup/72.27.2488.1413@72.27.2488.1413" timestamp="1606059987760" />
     <state x="878" y="311" width="672" height="678" key="search.everywhere.popup" timestamp="1606036275811">
       <screen x="72" y="27" width="2286" height="1261" />
     </state>
