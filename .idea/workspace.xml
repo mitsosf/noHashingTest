@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70f16e26-c690-4859-978d-339f90349216" name="Default Changelist" comment="" />
+    <list default="true" id="70f16e26-c690-4859-978d-339f90349216" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Actions/Fortify/CreateNewUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Actions/Fortify/CreateNewUser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -132,6 +140,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1kddpEqOXlJaaBENv0MK3DqPrrg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -157,11 +166,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606034582116</updated>
-      <workItem from="1606034583151" duration="456000" />
+      <workItem from="1606034583151" duration="699000" />
+      <workItem from="1606035305522" duration="1157000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="907" y="380" width="1015" height="772" key="find.popup" timestamp="1606035588656">
+      <screen x="72" y="27" width="2286" height="1261" />
+    </state>
+    <state x="907" y="380" width="1015" height="772" key="find.popup/72.27.2286.1261@72.27.2286.1261" timestamp="1606035588656" />
+    <state x="878" y="311" width="672" height="678" key="search.everywhere.popup" timestamp="1606036275811">
+      <screen x="72" y="27" width="2286" height="1261" />
+    </state>
+    <state x="878" y="311" width="672" height="678" key="search.everywhere.popup/72.27.2286.1261@72.27.2286.1261" timestamp="1606036275811" />
   </component>
 </project>
